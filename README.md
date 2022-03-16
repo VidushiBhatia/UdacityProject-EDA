@@ -20,7 +20,7 @@
 - PIL import Image
 - warnings
 
-:white_check_mark: **summary of the results**:
+:white_check_mark: **Summary of the Results**:
 - Oxford Diecast, Disney and MyTinyWorld have sold the most products
 - Oxfort Diecast has had the highest sales by far almost double the second highest
 - 669 manufacturers have perfect 5 rating but only 22 have been rated 5 on average by 5 or more customers
